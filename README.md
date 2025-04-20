@@ -1,4 +1,4 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Interactive Dashboard creation using MS Excel
 
 ## Project Objective
 
@@ -37,7 +37,7 @@ The following steps were taken to ensure an accurate and insightful analysis:
 
 ## Dashboard
 
-![Dashboard Preview](https://github.com/devanggohill/Sales-Data-Report/blob/main/SALESDATAREPORT.xlsx)
+![Dashboard Preview](https://github.com/devanggohill/Sales-Data-Report/blob/main/Screenshot%202025-04-20%20172235.png)
 
 ## Project Insights
 
